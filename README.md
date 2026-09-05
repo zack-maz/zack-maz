@@ -2,4 +2,4 @@
 
 I like to build with agents.
 
-Learning about interpretability, physical AI, and networking.
+currently learning about interpretability, physical AI, and networking.
