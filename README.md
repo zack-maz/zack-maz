@@ -1,1 +1,1 @@
-currently learning about interpretability, physical AI, and networking.
+![off the grid](assets/nvim-startup.png)
