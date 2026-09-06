@@ -1,1 +1,1 @@
-![off the grid](assets/nvim-startup.png)
+![off the grid](assets/cover.png)
